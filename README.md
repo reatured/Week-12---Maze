@@ -3,6 +3,8 @@ This project is a VR ready mini game.
 
 I test it on my Oculus quest 2 and it's working well in Unity editor. 
 
+The project took me a lot of time to build and also hook up my VR device with Unity for the first time. 
+
  ![](README_md_files%5Cimage.png?v=1&type=image)
 
 Spoiler: 
